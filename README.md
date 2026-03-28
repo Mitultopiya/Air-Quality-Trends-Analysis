@@ -125,7 +125,3 @@ Key contributions include:
 - Cloud deployment and CI/CD pipelines
 
 ---
-
-## 📜 License
-
-This project is released for **academic and learning purposes**.
